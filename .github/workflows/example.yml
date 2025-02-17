@@ -26,3 +26,6 @@ jobs:
         RGNAME: 'myresourcegroup'
         SUBSCRIPTIONNAME: 'mysubscription'
         ENABLEREPLICATION: 'true'
+
+    - name: list files
+      run: ls -alt
