@@ -1,0 +1,8 @@
+{
+  "applicationName": "MyApp",
+  "environment": "Production",
+  "containerRegistryName": "mycontainerregistry",
+  "rgName": "myresourcegroup",
+  "subscriptionName": "mysubscription",
+  "enableReplication": "true"
+}
